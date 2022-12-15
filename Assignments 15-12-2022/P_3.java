@@ -1,6 +1,4 @@
 // vowel or consonant
-package LAB_01;
-
 public class P_3 {
 	public static void main(String[] args) {
         char ch = 'i';

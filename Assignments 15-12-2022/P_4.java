@@ -1,6 +1,4 @@
 //write a program to print multiplication table
-package LAB_01;
-
 import java.util.Scanner;
 
 public class P_4 {

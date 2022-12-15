@@ -1,6 +1,4 @@
 // write a program to print hello world 5 times
-package LAB_01;
-
 public class P_1 {
 
 	public static void main(String[] args) {
