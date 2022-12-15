@@ -1,4 +1,4 @@
-// divisibility check by 5 and 11
+// // divisible by 5 and 11
 import java.util.Scanner;
 
 public class P_5 {
